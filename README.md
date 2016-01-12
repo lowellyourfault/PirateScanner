@@ -70,6 +70,9 @@ Occasionally, a pirate that 1 is targetting may not appear on the [official list
 
 **Note** that `addPirate()` must be called before `start()`.
 
+# Integration
+Gradle and Maven support are not available at the moment.
+
 # Software requirements
 1. Android SDK >= 9
 2. Java JDK >= 7
