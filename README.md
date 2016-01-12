@@ -81,7 +81,7 @@ Gradle and Maven support are not available at the moment.
 PirateScanner might not work well for certain (currently unknown) use case. In this case, developer can just grab a copy of the [pirate app list](https://console.cloud.google.com/m/cloudstorage/b/anti-piracy/o/android-pirate-app-list.json) and use it as intended.
 
 # Feedback
-There is no official way to report a new offending app currently. If you would like to send in your request, feel free to e-mail us at `now.makeez@gmail.com`
+There is no official way to report a new offending app currently. If you would like to send in your request, feel free to e-mail me at `tantzewee@gmail.com`. Alternatively, you may visit this [XDA thread](http://forum.xda-developers.com/coding/java-android/library-anti-piracy-online-pirate-app-t3291306) and leave your comment there.
 
 # DISCLAIMER
-The [pirate app list](https://console.cloud.google.com/m/cloudstorage/b/anti-piracy/o/android-pirate-app-list.json) can be used freely either together with the scanner code or indepently. We hold no responsibility for any possible defects found either in code or in list that break anything anytime.
+The [pirate app list](https://console.cloud.google.com/m/cloudstorage/b/anti-piracy/o/android-pirate-app-list.json) can be used freely either together with the scanner code or indepently. I hold no responsibility for any possible defects found either in code or in list that break anything anytime.
